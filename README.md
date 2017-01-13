@@ -1,0 +1,2 @@
+# MovieAnalysisUsingSAS
+Film Production Companies often invest a lot of money in making films, doing promotions and various other aspects before the release of the movie. Their return on investment (ROI) depends on how well the movie is acclaimed as good by the audience. However, at the box office, every movie doesn’t fare as well as the producers want it to be. Hence, the Production Companies can’t be sure if their investment in a movie will always be fruitful.
